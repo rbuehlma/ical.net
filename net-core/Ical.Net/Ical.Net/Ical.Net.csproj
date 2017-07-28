@@ -6,7 +6,7 @@
     <DocumentationFile>bin\Release\Ical.Net.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="NodaTime" Version="2.0.2" />
+    <PackageReference Include="NodaTime" Version="2.2.0" />
     <PackageReference Include="System.Linq.Parallel" Version="4.3.0" />
     <PackageReference Include="System.Reflection.TypeExtensions" Version="4.4.0" />
     <PackageReference Include="System.Runtime.Serialization.Primitives" Version="4.3.0" />
